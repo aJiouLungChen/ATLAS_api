@@ -54,3 +54,5 @@ gem 'signet', '~> 0.17.0'
 
 # Use access token to get user data from Google
 gem 'google-apis-oauth2_v2', '~> 0.1'
+
+gem 'rack-cors', :require => 'rack/cors'
